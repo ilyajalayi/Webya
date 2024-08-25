@@ -2,6 +2,11 @@
 
 به README رسمی فریمورک PHP خوش آمدید! این فریمورک که مشابه لاراول است، طراحی شده تا توسعه برنامه‌های PHP را آسان‌تر و سریع‌تر کند.
 
+Welcome to the official README of the Webya PHP framework! This framework, inspired by Laravel, is designed to make PHP application development easier and faster.
+
+
+[ENGLISH README FILE IS HERE!](https://github.com/ilyajalayi/Webya/blob/main/README-EN.md)
+
 ## ویژگی‌ها
 
 - **ساختار MVC**: پشتیبانی از معماری Model-View-Controller برای جداسازی منطق برنامه از لایه نمایش.
